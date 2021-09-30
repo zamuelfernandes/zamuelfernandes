@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Samuel Fernandes 
 
 - 👀 I am interested in learning the most about technology and programming ; 
-- 📚 I am currently learning Web Dev, but I am also graduating in Computer Engineering at the Federal University of Itajubá -> 🇧🇷;
+- 📚 I am currently study Web Dev, but I am also graduating in Computer Engineering at the Federal University of Itajubá  🇧🇷;
 - 😁 I am looking to collaborate in everything I can, but mainly to learn from everything ;
-- 📫 How to reach me? - zamuelfernandes@gmail.com or @zamuelfernandes on social media ;
+- 🚀 My Future Plans? Well as far as I can go I'll be going ;
 
 ## :octocat: My Github Stats 
 <div align="left">
