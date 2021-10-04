@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://github.com/zamuelfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zamuelfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamuelfernandes&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamuelfernandes&layout=compact&langs_count=7&theme=dark"/> 
 </div>
  
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif">
