@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Samuel Fernandes 
 
 - 👀 I am interested in learning the most about technology and programming ; 
-- 📚 I am currently study Flutter and Web Dev, but I am also graduating in Computer Engineering at the Federal University of Itajubá ;
+- 📚 I am currently study Flutter and Web Dev, and I am also graduating in Computer Engineering at the Federal University of Itajubá ;
 - 😁 I am looking to collaborate in everything I can, but mainly to learn from everything ;
 - 🚀 My Future Plans? Well as far as I can go I'll be going ;
 
@@ -36,5 +36,5 @@
  ## 💻 My Skills:
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,dart,flutter,firebase,figma,git,wordpress,cpp,html,css&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,dart,flutter,firebase,figma,git,wordpress,cpp,html,css&theme=light)](https://github.com/zamuelfernandes?tab=repositories)
 </div>
