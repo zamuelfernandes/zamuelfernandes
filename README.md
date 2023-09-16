@@ -36,5 +36,5 @@
  ## 💻 My Skills:
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,dart,flutter,firebase,figma,node,git,wordpress,cpp,html,css&theme=light)](https://github.com/zamuelfernandes?tab=repositories)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,dart,flutter,firebase,figma,nodejs,git,wordpress,cpp,html,css&theme=light)](https://github.com/zamuelfernandes?tab=repositories)
 </div>
