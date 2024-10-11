@@ -23,7 +23,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zamuelfernandes/ "Connect on LinkedIn")
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/zamuelfernandes "Contact on Instagram")
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zamuelfernandes@gmail.com "Contact on Gmail")
-  [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-009913?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5535999063898 "Contact on WhatsApp")
+  <!-- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-009913?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5535999063898 "Contact on WhatsApp") --> 
   
   <!--
   <a href="https://www.instagram.com/zamuelfernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
