@@ -37,5 +37,5 @@
  ## 💻 My Skills:
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,figma,php,laravel,wordpress,java,html,css,js,ts,nodejs,postgresql,graphql&theme=dark)](https://github.com/zamuelfernandes?tab=repositories)
+  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,figma,php,laravel,java,html,css,js,ts,nodejs,postgresql,docker,graphql&theme=dark)](https://github.com/zamuelfernandes?tab=repositories)
 </div>
