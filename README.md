@@ -53,9 +53,17 @@ My approach is hybrid: I combine robust software architecture — applying **SOL
 
 ## 🏆 Highlighted Projects
 
-* **Travel Management App:** Flutter application (MVVM + Provider) with passenger allocation algorithms.
-* **Odyssey App:** Interplanetary tourism solution developed during the NASA Hackathon.
-* **GraphQL Products API:** Product management API using Apollo Server.
+* **[Odyssey App](https://github.com/zamuelfernandes/odyssey_app):** Award-winning interplanetary tourism solution developed in 48 hours for the NASA Space Apps Hackathon, featuring innovative UX and real NASA API integration.
+* **[WhatsApp Sender](https://github.com/zamuelfernandes/whatsapp-sender):** Node.js automation tool for bulk corporate messaging, utilizing DOM manipulation and asynchronous flows.
+* **[GraphQL Products API](https://github.com/zamuelfernandes/graphql-products-api):** Product catalog API built with Apollo Server, focused on query optimization to eliminate overfetching.
+* **[NeST Digital | Curiosidades de Ubatuba](https://play.google.com/store/apps/details?id=com.nest.curiosidades_ubatuba):** Regional content app built with Flutter and integrated with a WordPress API. Currently published on Google Play.
+* **Travel & Reservation Management App:** B2B Flutter application (MVVM + Provider) for tourism agencies. Features algorithms for visual passenger allocation across multiple vehicles and automated list generation. *(Private Repo)*
+* **Order & Inventory Management App:** Flutter solution for small businesses featuring real-time order tracking and multi-level employee permissions. Built with Clean Architecture. *(Private Repo)*
+
+🌱 **Currently Building:**
+* **Zeloo:** A robust Flutter platform designed to connect patients with healthcare professionals and caregivers quickly, securely, and via geolocation. With an initial focus on palliative care and elderly assistance, the app offers a complete ecosystem from posting a job to secure payment processing.
+* **CEVP App:** A technological solution created for the Beach Volleyball Center of Excellence (CEVP - UNIFEI) sports extension project. The system centralizes all school and sports administrative management through a robust Flutter platform integrated with a Supabase backend. It also features an institutional Landing Page and an interactive flow for capturing and intelligently validating new interested students via public forms with active slots or waitlists.
+* **Personal Finance Manager:** Flutter and GetX application that parses NuBank credit card CSV exports to automatically generate expense reports and performance dashboards.
 
 ---
 
