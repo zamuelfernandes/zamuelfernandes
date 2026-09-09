@@ -1,72 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072b1&height=200&section=header&text=Samuel%20Fernandes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072b1&height=200&section=header&text=Samuel%20Fernandes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Mobile%20and%20Systems%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zamuelfernandes/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zamuelfernandes@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/zamuelfernandes)
-
-<!--
-  <a href="https://www.instagram.com/zamuelfernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zamuelfernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:zamuelfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
--->  
-
+  <a href="https://www.linkedin.com/in/zamuelfernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zamuelfernandes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/zamuelfernandes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <br>
 
 ## 👋 About Me
 
-I am a **Computer Engineering** student at UNIFEI 🇧🇷 and a Software Developer focused on **Mobile (Flutter)** and **Web Systems** solutions.
+I am a **Software Engineer** with a **Computer Engineering** background from **UNIFEI** 🇧🇷, specializing in **Mobile Architecture (Flutter/Dart)**, **Systems Engineering**, and **Cloud-integrated Web Platforms**.
 
-My approach is hybrid: I combine robust software architecture — applying **SOLID** principles, algorithms, and **Clean Code** — with a keen eye for **UX/UI Design** for high-fidelity prototyping.
+My engineering approach bridges robust software architecture (**Clean Architecture, SOLID, Design Patterns**) with a strong **UX/UI Design** execution in Figma.
 
-* 🔭 **Currently:** Developer & Designer, focusing on software development, CI/CD, optimization, White-label Apps, PWAs and Systems.
-* 💡 **Interests:** Software Architecture, Interface Design, and scalable product development.
-* 🚀 **Experience:** Mentoring at NASA Space Apps Challenge and developing B2B solutions.
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,figma,php,laravel,nodejs,html,css,js,mysql,git,docker,graphql,gcp,wordpress&theme=dark" />
-  </a>
-</div>
+* 📱 **Mobile & Architectures:** 4+ years of Flutter/Dart experience (Bloc, Provider, GetX), modular packages, and production delivery to Google Play & App Store.
+* ⚙️ **Systems & Backend:** High-performance tooling in Go, asynchronous Node.js, Laravel, and GraphQL APIs.
+* 🚀 **Community & Impact:** Speaker & Mentor at NASA Space Apps Challenge 2025 and HackTown startup operations.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zamuelfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamuelfernandes&layout=compact&langs_count=7&theme=dark&hide_border=true" height="180" alt="languages graph" />
-</div>
+### 🛠️ Systems & Tooling
+* **[AnchorDock](https://github.com/zamuelfernandes/anchordock)** `Go` `Docker Engine API` `SSE` `WebSockets`
+  * Ultra-lightweight (<12MB) native Linux desktop manager for Docker containers and Compose environments. Features concurrent batch operations via Goroutines, real-time resource telemetry via SSE, and an interactive container terminal over WebSockets.
+* **[My Dart Packages](https://github.com/zamuelfernandes/my_dart_packages)** `Dart` `Flutter` `Monorepo`
+  * Centralized, modular suite of reusable Dart/Flutter libraries designed to standardize domain logic, utilities, and string normalization across enterprise applications.
+* **[WhatsApp Sender](https://github.com/zamuelfernandes/whatsapp-sender)** `Node.js` `Headless Automation` `Async Flows`
+  * Asynchronous Node.js automation engine designed for corporate messaging workflows. Features DOM-level interaction, adaptive humanized delay patterns, and flow control to simulate organic user behavior and ensure reliable message delivery.
 
-<!-- ![Snake animation](https://github.com/zamuelfernandes/zamuelfernandes/blob/output/github-contribution-grid-snake.svg) -->
+### 📱 Mobile & Web Platforms
+* **[HackTown Side Events Navigator](https://github.com/zamuelfernandes/hacktown-startups-side-events)** `PWA` `Offline-First` `Vercel`
+  * Progressive Web App built for startup matchmaking and orientation across 19 side events at HackTown. Implemented a 100% offline-first architecture with Service Workers to overcome cell network congestion during the festival, serving ~200 unique visitors (91% mobile) with GPS navigation and calendar integration.
+* **[Odyssey App](https://github.com/zamuelfernandes/odyssey_app)** `Flutter` `NASA API` `UX/UI`
+  * Award-recognized interplanetary tourism solution built in 48 hours for the NASA Space Apps Challenge hackathon, integrating live NASA telemetry with a custom-crafted interface.
+* **[GraphQL Products API](https://github.com/zamuelfernandes/graphql-products-api)** `TypeScript` `Apollo Server` `GraphQL`
+  * High-performance catalog API designed for distributed environments to eliminate data overfetching through optimized resolvers and strongly-typed schemas.
 
 ---
 
-## 🏆 Highlighted Projects
+## 💼 Enterprise & Production Systems
 
-* **[Odyssey App](https://github.com/zamuelfernandes/odyssey_app):** Award-winning interplanetary tourism solution developed in 48 hours for the NASA Space Apps Hackathon, featuring innovative UX and real NASA API integration.
-* **[WhatsApp Sender](https://github.com/zamuelfernandes/whatsapp-sender):** Node.js automation tool for bulk corporate messaging, utilizing DOM manipulation and asynchronous flows.
-* **[GraphQL Products API](https://github.com/zamuelfernandes/graphql-products-api):** Product catalog API built with Apollo Server, focused on query optimization to eliminate overfetching.
-* **[NeST Digital | Curiosidades de Ubatuba](https://play.google.com/store/apps/details?id=com.nest.curiosidades_ubatuba):** Regional content app built with Flutter and integrated with a WordPress API. Currently published on Google Play.
-* **Travel & Reservation Management App:** B2B Flutter application (MVVM + Provider) for tourism agencies. Features algorithms for visual passenger allocation across multiple vehicles and automated list generation. *(Private Repo)*
-* **Order & Inventory Management App:** Flutter solution for small businesses featuring real-time order tracking and multi-level employee permissions. Built with Clean Architecture. *(Private Repo)*
-
-🌱 **Currently Building:**
-* **Zeloo:** A robust Flutter platform designed to connect patients with healthcare professionals and caregivers quickly, securely, and via geolocation. With an initial focus on palliative care and elderly assistance, the app offers a complete ecosystem from posting a job to secure payment processing.
-* **CEVP App:** A technological solution created for the Beach Volleyball Center of Excellence (CEVP - UNIFEI) sports extension project. The system centralizes all school and sports administrative management through a robust Flutter platform integrated with a Supabase backend. It also features an institutional Landing Page and an interactive flow for capturing and intelligently validating new interested students via public forms with active slots or waitlists.
-* **Personal Finance Manager:** Flutter and GetX application that parses NuBank credit card CSV exports to automatically generate expense reports and performance dashboards.
+* **Sports Management & Analytics Platform (C.E.V.P. UNIFEI):** End-to-end multiplatform platform (Android, Windows, PWA) built with Flutter and Supabase, scaled to manage over 150 athletes and public registration pipelines with automated waitlist logic.
+* **App Quick Start Architecture (NeST Digital):** Standardized Flutter starter architecture that reduced project setup time by **85%** (from 1 day to 1 hour).
+* **B2B Tourism Logistics App:** Flutter application featuring custom algorithms for visual seat allocation across multi-vehicle fleets and automated passenger manifest exports. *(Private Repo)*
 
 ---
 
 <div align="center">
-  <p><i>"Looking to collaborate and learn from everything."</i></p>
+  <p><i>"Passionate about building scalable systems, elegant interfaces, and impactful software."</i></p>
+  <a href="https://www.linkedin.com/in/zamuelfernandes/"><strong>Get in touch on LinkedIn →</strong></a>
 </div>
